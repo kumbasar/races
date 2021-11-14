@@ -1,10 +1,10 @@
-# Races
+# My Races
 
 ## 7k
 
 | Date         | Race     | Time |
 |--------------|-----------|------------|
-| 29.10.2021 | [İstanbul Cumhuriyet Koşusu 2021](https://istanbulcumhuriyetkosusu.com.tr)   | [00:35:21](https://www.racetecresults.com/Search.aspx?CId=19782&RId=53&S=kumbasar)      |
+| 29.10.2021 | [İstanbul Cumhuriyet Koşusu 2021](https://istanbulcumhuriyetkosusu.com.tr)   | [**00:35:21**](https://www.racetecresults.com/Search.aspx?CId=19782&RId=53&S=kumbasar)      |
 
 
 ## 10k
@@ -17,19 +17,19 @@
 | 19.9.2021| [Kadikoy Yarı Maratonu 2021](https://www.kadikoyyarimaratonu.com)   | [00:52:33](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=49&EId=1&AId=30538)      |
 | 10.10.2021| [İstanbulu Koşuyorum Üsküdar Etabı 2021](https://www.istanbulukosuyorum.istanbul)   | [00:46:03](https://event.spor.istanbul/eventresults.aspx)      |
 | 24.10.2021| [ZEYTİNBURNU 12. CUMHURİYET KOŞUSU](http://zeytinburnucumhuriyetkosusu.com)   | [00:47:57](http://racetiming.com.tr/wp-content/uploads/2021/10/zeytingenel.pdf)      |
-| 31.10.2021| [Bebek 10k 2021](https://www.bebek10k.com)   | [00:45:37](http://results.splittime.nl/results/ShowEvent.aspx?EventID=426)      |
+| 31.10.2021| [Bebek 10k 2021](https://www.bebek10k.com)   | [**00:45:37**](http://results.splittime.nl/results/ShowEvent.aspx?EventID=426)      |
 
 
 ## 15k
 
 | Date         | Race     | Time |
 |--------------|-----------|------------|
-| 7.11.2021 | [N Kolay 43. İstanbul Maratonu 2021](https://maraton.istanbul)   | [01:14:59](https://event.spor.istanbul/eventresults.aspx)      |
+| 7.11.2021 | [N Kolay 43. İstanbul Maratonu 2021](https://maraton.istanbul)   | [**01:14:59**](https://event.spor.istanbul/eventresults.aspx)      |
 
 
 ## 21k
 
 | Date         | Race     | Time |
 |--------------|-----------|------------|
-| 3.10.2021 | [UNDER ARMOUR BODRUM YARI MARATONU 2021](https://www.bodrumyarimaratonu.com)   | [2:02:47](http://results.splittime.nl/results/ShowEvent.aspx?EventID=410)      |
+| 3.10.2021 | [UNDER ARMOUR BODRUM YARI MARATONU 2021](https://www.bodrumyarimaratonu.com)   | [**02:02:47**](http://results.splittime.nl/results/ShowEvent.aspx?EventID=410)      |
 
