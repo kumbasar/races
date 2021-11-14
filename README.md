@@ -1,4 +1,13 @@
-# My Races
+# Statics
+
+| Year         | Total Races     | 
+|--------------|-----------|
+| 2021 |  10 | 
+| 2022 |  N/A | 
+
+
+
+# Races
 
 ## 7k
 
