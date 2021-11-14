@@ -9,7 +9,7 @@
 
 # Races
 
-| Date         | City |  Race     | Distance |Time |
+| Date         | City |  Race     | Course |Time |
 |--------------|----|-----------|------------|-----------|
 | 13.6.2021| Istanbul |  [Cadde 10k 2021](https://www.cadde10k.com)   | 10K | [00:48:12](https://results.sporthive.com/events/6809733337178650880/races/478364/bib/1705)      |
 | 10.7.2021| Istanbul | [Büyükada Gece Koşusu 2021](https://buyukadakosusu.com)   | 10K | [00:57:07](https://merbespor.com/results/G-Live/g-live.html?f=../buyukada2021/Buyukada_Gece_Kosusu.clax)      |
