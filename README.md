@@ -2,7 +2,7 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2021 |  14 | 
+| 2021 |  15 | 
 | 2022 |  N/A | 
 
 
@@ -25,3 +25,4 @@
 | 28.11.2021 |Istanbul | [Ultimate Ümraniye 2021](https://teamkronos.com/ultimate-umraniye/)   | road/trail | 8K | [00:39:19](https://utrail.live/results/g-live/g-live.html?f=../ultimate-umraniye-2021/ulum.clax)      |
 | 5.12.2021 | Balikesir | [Ida Ultra Köy Koşusu](https://www.idaultra.com/)   | trail | 15K | [02:01:02](https://utrail.live/results/g-live/g-live.html?f=../idaultra/2021/ida2021.clax)      |
 | 12.12.2021 | Istanbul | [14K Geyik Koşusu](https://www.geyikkosulari.com/tr/geyik/14k)   | trail | 14K | [01:32:35](http://racetecresults.com/myresults.aspx?CId=16389&RId=245&EId=2&AId=163838)      |
+| 18.12.2021 | Istanbul | [Longest Night / Run or Ride](https://uzunetap.com/TR/?p=Longest-Night-Run-or-Ride)   | trail | 8K | [00:45:54](https://www.racetecresults.com/myresults.aspx?uid=19782-57-1-36948)      |
