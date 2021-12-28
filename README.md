@@ -26,4 +26,4 @@
 | 5.12.2021 | Balikesir | [Ida Ultra Köy Koşusu](https://www.idaultra.com/)   | trail | 15K | [02:01:02](https://utrail.live/results/g-live/g-live.html?f=../idaultra/2021/ida2021.clax)      |
 | 12.12.2021 | Istanbul | [14K Geyik Koşusu](https://www.geyikkosulari.com/tr/geyik/14k)   | trail | 14K | [01:32:35](http://racetecresults.com/myresults.aspx?CId=16389&RId=245&EId=2&AId=163838)      |
 | 18.12.2021 | Istanbul | [Longest Night / Run or Ride](https://uzunetap.com/TR/?p=Longest-Night-Run-or-Ride)   | trail | 8K | [00:45:54](https://www.racetecresults.com/myresults.aspx?uid=19782-57-1-36948)      |
-| 27.12.2021 | Ankara | [86. Büyük Atatürk Koşusu](http://www.taf.org.tr/2021/12/16/86-buyuk-ataturk-kosusu-27-aralikta/)   | road | 10K | [00:49:25](N/A) |
+| 27.12.2021 | Ankara | [86. Büyük Atatürk Koşusu](http://www.taf.org.tr/2021/12/16/86-buyuk-ataturk-kosusu-27-aralikta/)   | road | 10K | [00:49:18](http://www.taf.org.tr/wp-content/uploads/2021/12/2021_AtaturkKosu_E.pdf) |
