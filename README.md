@@ -3,7 +3,7 @@
 | Year         | Total Races     | 
 |--------------|-----------|
 | 2021 |  16 | 
-| 2022 |  1 | 
+| 2022 |  2 | 
 
 
 
@@ -28,3 +28,4 @@
 | 18.12.2021 | Istanbul | [Longest Night / Run or Ride](https://uzunetap.com/TR/?p=Longest-Night-Run-or-Ride)   | trail | 8K | [00:45:54](https://www.racetecresults.com/myresults.aspx?uid=19782-57-1-36948)      |
 | 27.12.2021 | Ankara | [86. Büyük Atatürk Koşusu](http://www.taf.org.tr/2021/12/16/86-buyuk-ataturk-kosusu-27-aralikta/)   | road | 10K | [00:49:18](http://www.taf.org.tr/wp-content/uploads/2021/12/2021_AtaturkKosu_E.pdf) |
 | 23.01.2022 | Istanbul | [11. Uğur Mumcu Yol Koşusu](https://teamkronos.com/ugur-mumcu-yolkosusu/)   | road | 5K | [00:25:36](https://drive.google.com/file/d/1fjCiKb6XSXYninMrx90xxEfwjV4d3zcj/view) |
+| 06.03.2022 | Antalya | [Runtalya](https://runtalya.com)   | road | 21k | [01:48:38](http://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=251&EId=2&AId=171572) |
