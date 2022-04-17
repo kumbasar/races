@@ -32,3 +32,4 @@
 | 20.03.2022 | Istanbul | [The North Face Geyik Koşuları 2022 I](https://www.geyikkosulari.com) | trail | 14K | [01:37:34](http://sonuc.plustiming.com/MyResults.aspx?uid=16389-253-2-178292) |
 | 27.03.2022 | Istanbul | [N Kolay 17. İstanbul Yarı Maratonu](https://www.istanbulyarimaratonu.com) | road | 21K | [01:44:45](http://results.splittime.nl/results/ShowEvent.aspx?EventID=477) (PB) |
 | 09.04.2022 | Istanbul |  [Under Armour Gece Koşuları - Nisan](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | trail | 12K | [01:00:05](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=60&EId=2&AId=38900) |
+| 17.04.2022 | Izmir |  [Maraton Izmir](https://www.maratonizmir.org/) | road | 42K | [04:20:00](https://maratonizmir.depar.hr/2022/) (PB)|
