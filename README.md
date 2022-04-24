@@ -10,7 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
-| 23.04.2022 | Istanbul |  [Istanbul Trail](https://istanbulultratrail.com/TR/?p=iu-15K) | trail | 15K | [01:28:37](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=62&EId=4&AId=42133) |
+| 23.04.2022 | Istanbul |  [Istanbul Ultra Trail](https://istanbulultratrail.com/TR/?p=iu-15K) | trail | 15K | [01:28:37](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=62&EId=4&AId=42133) |
 | 17.04.2022 | Izmir |  [Maraton Izmir](https://www.maratonizmir.org/) | road | 42K | [04:20:00](https://maratonizmir.depar.hr/2022/) (PB)|
 | 09.04.2022 | Istanbul |  [Under Armour Gece Koşuları - Nisan](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | trail | 12K | [01:00:05](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=60&EId=2&AId=38900) |
 | 27.03.2022 | Istanbul | [N Kolay 17. İstanbul Yarı Maratonu](https://www.istanbulyarimaratonu.com) | road | 21K | [01:44:45](http://results.splittime.nl/results/ShowEvent.aspx?EventID=477) (PB) |
