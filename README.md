@@ -2,7 +2,7 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  8| 
+| 2022 |  9| 
 | 2021 |  16 | 
 
 
@@ -10,7 +10,8 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
-| 08.05.2022 | Izmir |  [WINGS FOR LIFE WORLD RUN](https://wingsforlifeworldrun.com) | road | 16.3k | |
+| 15.05.2022 | Istanbul |  [İstanbul'u Koşuyorum Asya Etabı (Üsküdar)](https://www.istanbulukosuyorum.istanbul) | road | 10k | [00:50:55](https://event.spor.istanbul/eventresults.aspx)|
+| 08.05.2022 | Izmir |  [Wing For Life World Rrun](https://wingsforlifeworldrun.com) | road | [16.36k](https://www.wingsforlifeworldrun.com/en/profiles/aPw1K1) | N/A|
 | 23.04.2022 | Istanbul |  [Istanbul Ultra Trail](https://istanbulultratrail.com/TR/?p=iu-15K) | trail | 15K | [01:28:37](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=62&EId=4&AId=42133) |
 | 17.04.2022 | Izmir |  [Maraton Izmir](https://www.maratonizmir.org/) | road | 42K | [04:20:00](https://maratonizmir.depar.hr/2022/) (PB)|
 | 09.04.2022 | Istanbul |  [Under Armour Gece Koşuları - Nisan](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | trail | 12K | [01:00:05](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=60&EId=2&AId=38900) |
