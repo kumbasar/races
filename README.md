@@ -2,7 +2,7 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  10 | 
+| 2022 |  11 | 
 | 2021 |  16 | 
 
 
@@ -10,6 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
+| 04.06.2022 | Bursa |  [Spx Dağyenice Ultra](https://dagyeniceultra.com/) | trail | 13k | [1:24:31.92](https://utrail.live/results/g-live/g-live.html?f=../dagyeniceultra/2022/dagyenice2022.clax)|
 | 22.05.2022 | Istanbul |  [Tuzla Belediyesi Gençlik Koşusu](https://etkinlik.tuzla.bel.tr) | road | 9k | [00:45:24](https://www.strava.com/activities/7182464104/overview)|
 | 15.05.2022 | Istanbul |  [İstanbul'u Koşuyorum Asya Etabı (Üsküdar)](https://www.istanbulukosuyorum.istanbul) | road | 10k | [00:50:55](https://event.spor.istanbul/eventresults.aspx)|
 | 08.05.2022 | Izmir |  [Wing For Life World Rrun](https://wingsforlifeworldrun.com) | road | [16.36k](https://www.wingsforlifeworldrun.com/en/profiles/aPw1K1) | N/A|
