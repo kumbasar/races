@@ -2,7 +2,7 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  11 | 
+| 2022 |  12 | 
 | 2021 |  16 | 
 
 
@@ -10,6 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
+| 12.06.2022 | Van |  [1. Van Denizi Yarı Maratonu](https://www.vandeniziyarimaratonu.com/) | road | 21k | [1:59:51](https://www.racetecresults.com/myresults.aspx?uid=19782-64-2-43624)|
 | 04.06.2022 | Bursa |  [Spx Dağyenice Ultra](https://dagyeniceultra.com/) | trail | 13k | [1:24:31.92](https://utrail.live/results/g-live/g-live.html?f=../dagyeniceultra/2022/dagyenice2022.clax)|
 | 22.05.2022 | Istanbul |  [Tuzla Belediyesi Gençlik Koşusu](https://etkinlik.tuzla.bel.tr) | road | 9k | [00:45:24](https://www.strava.com/activities/7182464104/overview)|
 | 15.05.2022 | Istanbul |  [İstanbul'u Koşuyorum Asya Etabı (Üsküdar)](https://www.istanbulukosuyorum.istanbul) | road | 10k | [00:50:55](https://event.spor.istanbul/eventresults.aspx)|
