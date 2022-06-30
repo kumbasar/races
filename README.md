@@ -10,7 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
-| 18.06.2022 | Istanbul |  [Color Run Maltepe](https://www.maltepe.bel.tr) | road | 7k | [0:33:29](https://www.strava.com/activities/7326841530/overview) |
+| 18.06.2022 | Istanbul |  [Color Run Maltepe](https://www.maltepe.bel.tr) | fun run | 7k | [0:33:29](https://www.strava.com/activities/7326841530/overview) |
 | 12.06.2022 | Van |  [1. Van Denizi Yarı Maratonu](https://www.vandeniziyarimaratonu.com/) | road | 21k | [1:59:51](https://www.racetecresults.com/myresults.aspx?uid=19782-64-2-43624) (Age cat 3rd place) |
 | 04.06.2022 | Bursa |  [Spx Dağyenice Ultra](https://dagyeniceultra.com/) | trail | 13k | [1:24:31.92](https://utrail.live/results/g-live/g-live.html?f=../dagyeniceultra/2022/dagyenice2022.clax)|
 | 22.05.2022 | Istanbul |  [Tuzla Belediyesi Gençlik Koşusu](https://etkinlik.tuzla.bel.tr) | road | 9k | [00:45:24](https://www.strava.com/activities/7182464104/overview)|
