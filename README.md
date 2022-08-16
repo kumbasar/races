@@ -10,7 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
-| 14.08.2022 | Ankara |  [1. Evren Yarı Maratonu](http://evrenyarimaratonu.org/) | Trail | 20k | [02:05:00](http://evrenyarimaratonu.org/canlisonuclar) |
+| 14.08.2022 | Ankara |  [1. Evren Yarı Maratonu](http://evrenyarimaratonu.org/) | Trail | 20k | [02:05:00](http://evrenyarimaratonu.org/assets/files/resultstr_2.pdf) |
 | 03.07.2022 | Istanbul |  [2. ULUSLARARASI SREBRENICA BOŞNAK SOYKIRIMI ANMA KOŞUSU](https://www.bakirkoy.bel.tr/) | Fun run | 6k | [00:35:39](https://www.strava.com/activities/7406687299/overview) |
 | 18.06.2022 | Istanbul |  [Color Run Maltepe](https://www.maltepe.bel.tr) | Fun run | 7k | [00:33:29](https://www.strava.com/activities/7326841530/overview) |
 | 12.06.2022 | Van |  [1. Van Denizi Yarı Maratonu](https://www.vandeniziyarimaratonu.com/) | Road | 21k | [01:59:51](https://www.racetecresults.com/myresults.aspx?uid=19782-64-2-43624) (Age cat 3rd place) |
