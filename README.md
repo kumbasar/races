@@ -2,7 +2,7 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  15 | 
+| 2022 |  16 | 
 | 2021 |  16 | 
 
 
@@ -10,6 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
+| 27.08.2022 | Eskişehir | [3. Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com)   | Road |21k | [01:51:52](https://www.racetecresults.com/MyResults.aspx?uid=19782-67-2-46434)      |
 | 14.08.2022 | Ankara |  [1. Evren Yarı Maratonu](http://evrenyarimaratonu.org/) | Trail | 20k | [02:05:00](http://evrenyarimaratonu.org/assets/files/resultstr_2.pdf) |
 | 03.07.2022 | Istanbul |  [2. ULUSLARARASI SREBRENICA BOŞNAK SOYKIRIMI ANMA KOŞUSU](https://www.bakirkoy.bel.tr/) | Fun run | 6k | [00:35:39](https://www.strava.com/activities/7406687299/overview) |
 | 18.06.2022 | Istanbul |  [Color Run Maltepe](https://www.maltepe.bel.tr) | Fun run | 7k | [00:33:29](https://www.strava.com/activities/7326841530/overview) |
@@ -38,6 +39,6 @@
 | 10.10.2021| Istanbul |[İstanbulu Koşuyorum Üsküdar Etabı](https://www.istanbulukosuyorum.istanbul)   | Road |10K | [00:46:03](https://event.spor.istanbul/eventresults.aspx)      |
 | 3.10.2021 | Muğla | [Under Armour Bodrum Yarı Maratonu](https://www.bodrumyarimaratonu.com)   | Road |21K | [02:02:47](http://results.splittime.nl/results/ShowEvent.aspx?EventID=410)    |
 | 19.9.2021| Istanbul |[Kadikoy Yarı Maratonu](https://www.kadikoyyarimaratonu.com)   | Road |10K |  [00:52:33](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=49&EId=1&AId=30538)      |
-| 29.8.2021| Eskişehir | [Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com)   | Road |10K | [00:53:43](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=47&EId=1&AId=26310)      |
+| 29.8.2021| Eskişehir | [Eskişehiruu Yarı Maratonu](https://www.eskisehiryarimaratonu.com)   | Road |10K | [00:53:43](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=47&EId=1&AId=26310)      |
 | 10.7.2021| Istanbul | [Büyükada Gece Koşusu](https://buyukadakosusu.com)   | Road |10K | [00:57:07](https://merbespor.com/results/G-Live/g-live.html?f=../buyukada2021/Buyukada_Gece_Kosusu.clax)      |
 | 13.6.2021| Istanbul |  [Cadde 10k](https://www.cadde10k.com)   | Road | 10K | [00:48:12](https://results.sporthive.com/events/6809733337178650880/races/478364/bib/1705)      |
