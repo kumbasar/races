@@ -2,7 +2,7 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  16 | 
+| 2022 |  17 | 
 | 2021 |  16 | 
 
 
@@ -10,6 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
+| 11.09.2022 | Izmir | [10. Dokuz Eylül Yarı Maratonu](https://www.maratonizmir.org/)   | Road |21k | [01:54:26](https://my.raceresult.com/218095/results#1_7AAEAD)      |
 | 27.08.2022 | Eskişehir | [3. Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com)   | Road |21k | [01:51:52](https://www.racetecresults.com/MyResults.aspx?uid=19782-67-2-46434)      |
 | 14.08.2022 | Ankara |  [1. Evren Yarı Maratonu](http://evrenyarimaratonu.org/) | Trail | 20k | [02:05:00](http://evrenyarimaratonu.org/assets/files/resultstr_2.pdf) |
 | 03.07.2022 | Istanbul |  [2. ULUSLARARASI SREBRENICA BOŞNAK SOYKIRIMI ANMA KOŞUSU](https://www.bakirkoy.bel.tr/) | Fun run | 6k | [00:35:39](https://www.strava.com/activities/7406687299/overview) |
