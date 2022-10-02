@@ -2,7 +2,7 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  18 | 
+| 2022 |  19 | 
 | 2021 |  16 | 
 
 
@@ -10,6 +10,7 @@
 
 | Date         | City |  Race     | Type | Course |Time |
 |:------------:|----|-----------|:----------:|:-------:|:---------:|
+|02.10.2022| Muğla | [Bodrum Yarı Maratonu](https://bodrumyarimaratonu.com/)   | Road |21k | [01:53:35](http://limitsensin.afyonhosting.com/livesite.aspx?siteid=14)      |
 |25.09.2022| Çanakkale | [Gelibolu Maratonu 2022](https://www.gelibolumaratonu.com)   | Road |21k | [01:52:03](http://sonuc.plustiming.com/myresults.aspx?uid=16389-259-2-182006)      |
 | 11.09.2022 | Izmir | [10. Dokuz Eylül Yarı Maratonu](https://www.maratonizmir.org/)   | Road |21k | [01:54:26](https://my.raceresult.com/218095/results#1_7AAEAD)      |
 | 27.08.2022 | Eskişehir | [3. Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com)   | Road |21k | [01:51:52](https://www.racetecresults.com/MyResults.aspx?uid=19782-67-2-46434)      |
