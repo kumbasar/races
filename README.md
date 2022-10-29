@@ -2,15 +2,16 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  22 | 
+| 2022 |  23 | 
 | 2021 |  16 | 
-|  |  38 | 
+|  |  39 | 
 
 
 # Races
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
+|23| 29.10.2022| Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com)   | Road |8K | [00:37:39](https://utrail.live/results/g-live/g-live.html?f=../29ekim/2022/29ekimataturk.clax)      |
 |22| 22.10.2022| Istanbul | [Büyükada Gece Koşusu](https://buyukadagecekosusu.com/)   | Road |11K | [00:55:31](http://results.splittime.nl/results/ShowEvent.aspx?EventID=586)      |
 |21| 16.10.2022 | Amsterdam (NL) | [Mizuno Half Marathon](https://www.tcsamsterdammarathon.eu/) | Road | 21k | [01:45:04](https://results.sporthive.com/events/6981282006063051264/races/483570/bib/29453) |
 |20| 09.10.2022 | Istanbul | [The North Face Geyik Koşuları 2022 III](https://www.geyikkosulari.com) | Trail | 14K | [01:28:51](http://sonuc.plustiming.com/myresults.aspx?uid=16389-255-2-191107) |
