@@ -11,7 +11,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
-|24| 30.10.2022| Istanbul | [Bosphorun 10K](https://bosphorun.istanbul)   | Road |10K | [00:46:39](https://utrail.live/results/g-live/g-live.html?f=../29ekim/2022/29ekimataturk.clax)      |
+|24| 30.10.2022| Istanbul | [Bosphorun 10K](https://bosphorun.istanbul)   | Road |10K | [00:46:07](https://www.racetecresults.com/Search.aspx?CId=19782&RId=72&S=kumbasar)      |
 |23| 29.10.2022| Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com)   | Road |8K | [00:37:39](https://utrail.live/results/g-live/g-live.html?f=../29ekim/2022/29ekimataturk.clax)      |
 |22| 22.10.2022| Istanbul | [Büyükada Gece Koşusu](https://buyukadagecekosusu.com/)   | Road |11K | [00:55:31](http://results.splittime.nl/results/ShowEvent.aspx?EventID=586)      |
 |21| 16.10.2022 | Amsterdam (NL) | [Mizuno Half Marathon](https://www.tcsamsterdammarathon.eu/) | Road | 21k | [01:45:04](https://results.sporthive.com/events/6981282006063051264/races/483570/bib/29453) |
