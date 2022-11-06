@@ -2,15 +2,16 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  24 | 
+| 2022 |  25 | 
 | 2021 |  16 | 
-|  |  40 | 
+|  |  41 | 
 
 
 # Races
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
+|25 | 6.11.2022 |Istanbul | [N Kolay 44. İstanbul Maratonu](https://maraton.istanbul)   | Road | 42K | [04:10:59](https://event.spor.istanbul/eventresults.aspx) (PB) 
 |24| 30.10.2022| Istanbul | [Bosphorun 10K](https://bosphorun.istanbul)   | Road |10K | [00:46:07](https://www.racetecresults.com/Search.aspx?CId=19782&RId=72&S=kumbasar)      |
 |23| 29.10.2022| Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com)   | Road |8K | [00:37:39](https://utrail.live/results/g-live/g-live.html?f=../29ekim/2022/29ekimataturk.clax)      |
 |22| 22.10.2022| Istanbul | [Büyükada Gece Koşusu](https://buyukadagecekosusu.com/)   | Road |11K | [00:55:31](http://results.splittime.nl/results/ShowEvent.aspx?EventID=586)      |
@@ -29,7 +30,7 @@
 |9| 15.05.2022 | Istanbul |  [İstanbul'u Koşuyorum Asya Etabı (Üsküdar)](https://www.istanbulukosuyorum.istanbul) | Road | 10k | [00:50:55](https://event.spor.istanbul/eventresults.aspx)|
 |8| 08.05.2022 | Izmir |  [Wings For Life World Run](https://wingsforlifeworldrun.com) | Road | [16.36k](https://www.wingsforlifeworldrun.com/en/profiles/aPw1K1) | N/A|
 |7| 23.04.2022 | Istanbul |  [Istanbul Ultra Trail](https://istanbulultratrail.com/TR/?p=iu-15K) | Trail | 15K | [01:28:37](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=62&EId=4&AId=42133) |
-|6| 17.04.2022 | Izmir |  [Maraton Izmir](https://www.maratonizmir.org/) | Road | 42K | [04:20:00](https://maratonizmir.depar.hr/2022/) (PB)|
+|6| 17.04.2022 | Izmir |  [Maraton Izmir](https://www.maratonizmir.org/) | Road | 42K | [04:20:00](https://maratonizmir.depar.hr/2022/) |
 |5 | 09.04.2022 | Istanbul |  [Under Armour Gece Koşuları - Nisan](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | Trail | 12K | [01:00:05](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=60&EId=2&AId=38900) |
 |4 | 27.03.2022 | Istanbul | [N Kolay 17. İstanbul Yarı Maratonu](https://www.istanbulyarimaratonu.com) | Road | 21K | [01:44:45](http://results.splittime.nl/results/ShowEvent.aspx?EventID=477) (PB) |
 |3| 20.03.2022 | Istanbul | [The North Face Geyik Koşuları 2022 I](https://www.geyikkosulari.com) | Trail | 14K | [01:37:34](http://sonuc.plustiming.com/MyResults.aspx?uid=16389-253-2-178292) |
