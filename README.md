@@ -2,15 +2,16 @@
 
 | Year         | Total Races     | 
 |--------------|-----------|
-| 2022 |  25 | 
+| 2022 |  26 | 
 | 2021 |  16 | 
-|  |  41 | 
+|  |  42 | 
 
 
 # Races
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
+|26 | 12.11.2022 | Istanbul |  [Under Armour Gece Koşuları - Kasım](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | Trail | 12K | [00:59:13](https://www.racetecresults.com/myresults.aspx?uid=19782-74-2-51229) |
 |25 | 6.11.2022 |Istanbul | [N Kolay 44. İstanbul Maratonu](https://maraton.istanbul)   | Road | 42K | [04:10:59](https://event.spor.istanbul/eventresults.aspx) (PB) 
 |24| 30.10.2022| Istanbul | [Bosphorun 10K](https://bosphorun.istanbul)   | Road |10K | [00:46:07](https://www.racetecresults.com/Search.aspx?CId=19782&RId=72&S=kumbasar)      |
 |23| 29.10.2022| Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com)   | Road |8K | [00:37:39](https://utrail.live/results/g-live/g-live.html?f=../29ekim/2022/29ekimataturk.clax)      |
