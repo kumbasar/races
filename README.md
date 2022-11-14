@@ -11,14 +11,14 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
-|26 | 12.11.2022 | Istanbul |  [Under Armour Gece Koşuları - Kasım](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | Trail | 12K | [00:59:13](https://www.racetecresults.com/myresults.aspx?uid=19782-74-2-51229) |
+|26 | 12.11.2022 | Istanbul |  [Under Armour Gece Koşuları - Kasım](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | Trail | 12K | [00:59:13](https://www.racetecresults.com/myresults.aspx?uid=19782-74-2-51229) (Course PB) |
 |25 | 6.11.2022 |Istanbul | [N Kolay 44. İstanbul Maratonu](https://maraton.istanbul)   | Road | 42K | [04:10:59](https://event.spor.istanbul/eventresults.aspx) (PB) 
 |24| 30.10.2022| Istanbul | [Bosphorun 10K](https://bosphorun.istanbul)   | Road |10K | [00:46:07](https://www.racetecresults.com/Search.aspx?CId=19782&RId=72&S=kumbasar)      |
 |23| 29.10.2022| Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com)   | Road |8K | [00:37:39](https://utrail.live/results/g-live/g-live.html?f=../29ekim/2022/29ekimataturk.clax)      |
-|22| 22.10.2022| Istanbul | [Büyükada Gece Koşusu](https://buyukadagecekosusu.com/)   | Road |11K | [00:55:31](http://results.splittime.nl/results/ShowEvent.aspx?EventID=586)      |
+|22| 22.10.2022| Istanbul | [Büyükada Gece Koşusu](https://buyukadagecekosusu.com/)   | Road |11K | [00:55:31](http://results.splittime.nl/results/ShowEvent.aspx?EventID=586)  (Course PB)    |
 |21| 16.10.2022 | Amsterdam (NL) | [Mizuno Half Marathon](https://www.tcsamsterdammarathon.eu/) | Road | 21k | [01:45:04](https://results.sporthive.com/events/6981282006063051264/races/483570/bib/29453) |
-|20| 09.10.2022 | Istanbul | [The North Face Geyik Koşuları 2022 III](https://www.geyikkosulari.com) | Trail | 14K | [01:28:51](http://sonuc.plustiming.com/myresults.aspx?uid=16389-255-2-191107) |
-|19|02.10.2022| Muğla | [Bodrum Yarı Maratonu](https://bodrumyarimaratonu.com/)   | Road |21k | [01:53:35](http://limitsensin.afyonhosting.com/livesite.aspx?siteid=14)      |
+|20| 09.10.2022 | Istanbul | [The North Face Geyik Koşuları 2022 III](https://www.geyikkosulari.com) | Trail | 14K | [01:28:51](http://sonuc.plustiming.com/myresults.aspx?uid=16389-255-2-191107) (Course PB) |
+|19|02.10.2022| Muğla | [Bodrum Yarı Maratonu](https://bodrumyarimaratonu.com/)   | Road |21k | [01:53:35](http://limitsensin.afyonhosting.com/livesite.aspx?siteid=14)   (Course PB)   |
 |18|25.09.2022| Çanakkale | [Gelibolu Maratonu 2022](https://www.gelibolumaratonu.com)   | Road |21k | [01:52:03](http://sonuc.plustiming.com/myresults.aspx?uid=16389-259-2-182006)      |
 |17| 11.09.2022 | Izmir | [10. Dokuz Eylül Yarı Maratonu](https://www.maratonizmir.org/)   | Road |21k | [01:54:26](https://my.raceresult.com/218095/results#1_7AAEAD)      |
 |16| 27.08.2022 | Eskişehir | [3. Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com)   | Road |21k | [01:51:52](https://www.racetecresults.com/MyResults.aspx?uid=19782-67-2-46434)      |
