@@ -11,7 +11,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
-|26 | 12.11.2022 | Istanbul |  [Under Armour Gece Koşuları - Kasım](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | Trail | 12K | [00:59:13](https://www.racetecresults.com/myresults.aspx?uid=19782-74-2-51229) (Course PB) |
+|26 | 12.11.2022 | Istanbul |  [Under Armour Gece Koşuları - Kasım](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | Trail | 12K | [00:59:13](https://www.racetecresults.com/myresults.aspx?uid=19782-74-2-51229)  |
 |25 | 6.11.2022 |Istanbul | [N Kolay 44. İstanbul Maratonu](https://maraton.istanbul)   | Road | 42K | [04:10:59](https://event.spor.istanbul/eventresults.aspx) (PB) 
 |24| 30.10.2022| Istanbul | [Bosphorun 10K](https://bosphorun.istanbul)   | Road |10K | [00:46:07](https://www.racetecresults.com/Search.aspx?CId=19782&RId=72&S=kumbasar)      |
 |23| 29.10.2022| Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com)   | Road |8K | [00:37:39](https://utrail.live/results/g-live/g-live.html?f=../29ekim/2022/29ekimataturk.clax)      |
@@ -43,7 +43,7 @@
 |14| 12.12.2021 | Istanbul | [Geyik Koşusu](https://www.geyikkosulari.com/tr/geyik/14k)   | Trail | 14K | [01:32:35](http://racetecresults.com/myresults.aspx?CId=16389&RId=245&EId=2&AId=163838)      |
 |13| 5.12.2021 | Balikesir | [Ida Ultra Köy Koşusu](https://www.idaultra.com/)   | Trail | 15K | [02:01:02](https://utrail.live/results/g-live/g-live.html?f=../idaultra/2021/ida2021.clax)      |
 |12| 28.11.2021 |Istanbul | [Ultimate Ümraniye](https://teamkronos.com/ultimate-umraniye/)   | Road/Trail | 8K | [00:39:19](https://utrail.live/results/g-live/g-live.html?f=../ultimate-umraniye-2021/ulum.clax)      |
-|11| 20.11.2021 |Istanbul | [Under Armour Gece Koşuları - Kasım](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari-2021)   | Trail |12K | [00:58:44](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=56&EId=2&AId=36100)      |
+|11| 20.11.2021 |Istanbul | [Under Armour Gece Koşuları - Kasım](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari-2021)   | Trail |12K | [00:58:44](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=56&EId=2&AId=36100)  (Course PB)    |
 |10 | 7.11.2021 |Istanbul | [N Kolay 43. İstanbul Maratonu](https://maraton.istanbul)   | Road |15K | [01:14:59](https://event.spor.istanbul/eventresults.aspx) (PB)      |
 |9 | 31.10.2021| Istanbul |[Bebek 10k](https://www.bebek10k.com)   | Road | 10K | [00:45:37](http://results.splittime.nl/results/ShowEvent.aspx?EventID=426) (PB)   |
 |8 | 29.10.2021 | Istanbul |[İstanbul Cumhuriyet Koşusu](https://istanbulcumhuriyetkosusu.com.tr)   | Road |7K | [00:35:21](https://www.racetecresults.com/Search.aspx?CId=19782&RId=53&S=kumbasar)    |
