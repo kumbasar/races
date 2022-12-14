@@ -1,4 +1,5 @@
-[Check out my Strava Profile](https://www.strava.com/athletes/kumbasar)
+[Strava Profile](https://www.strava.com/athletes/kumbasar)
+[ITRA Profile](https://itra.run/RunnerSpace/RaceResults/Kumbasar.Volkan/4664318)
 
 # Statics
 
