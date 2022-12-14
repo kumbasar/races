@@ -1,7 +1,11 @@
-[Strava Profile](https://www.strava.com/athletes/kumbasar)
-[ITRA Profile](https://itra.run/RunnerSpace/RaceResults/Kumbasar.Volkan/4664318)
+# Race Overview
 
-# Statics
+## External Profiles
+
+- [Strava](https://www.strava.com/athletes/kumbasar)
+- [ITRA](https://itra.run/RunnerSpace/RaceResults/Kumbasar.Volkan/4664318)
+
+## Statistics
 
 | Year         | Total Races     | 
 |--------------|-----------|
@@ -10,7 +14,7 @@
 |  |  43 | 
 
 
-# Races
+## Races
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
