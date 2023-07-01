@@ -9,15 +9,16 @@
 
 | Year         | Total Races     |
 |--------------|-----------|
-| 2023 |  5 |
+| 2023 |  6|
 | 2022 |  27 |
 | 2021 |  16 |
-|  |  48|
+|  |  49|
 
 ## Races
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
+|6| 01.07.2023 | London (UK) | [Greenwich Park](https://www.runthrough.co.uk/) | Road | 10K | [00:50:37](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4918&EId=1&AId=117551)
 |5| 28.06.2023 | London (UK) | [Chase The Sun Battersea Park](https://www.runthrough.co.uk/) | Road | 10K | [00:48:19](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4911&EId=1&AId=116543)
 |4| 24.06.2023 | London (UK) | [Lee Valley Velo Park](https://www.runthrough.co.uk/) | Road | 21K | [01:59:18](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4909&EId=6&AId=114578)
 |3| 18.06.2023 | London (UK) | [Battersea Park 10k](https://www.runthrough.co.uk/) | Road | 10K | [00:50:14](https://results.runthrough.co.uk/myresults.aspx?uid=16487-4908-1-111461)    
