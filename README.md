@@ -9,15 +9,16 @@
 
 | Year         | Total Races     |
 |--------------|-----------|
-| 2023 |  6|
+| 2023 |  7|
 | 2022 |  27 |
 | 2021 |  16 |
-|  |  49|
+|  |  50|
 
 ## Races
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
+|7| 09.07.2023 | London (UK) | [Asics London 10k](https://asicslondon10k.com/) | Road | 10K | [00:48:25](https://results.sporthive.com/events/7079427854685417984/races/486324/bib/167)
 |6| 01.07.2023 | London (UK) | [Greenwich Park](https://www.runthrough.co.uk/) | Road | 10K | [00:50:37](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4918&EId=1&AId=117551)
 |5| 28.06.2023 | London (UK) | [Chase The Sun Battersea Park](https://www.runthrough.co.uk/) | Road | 10K | [00:48:19](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4911&EId=1&AId=116543)
 |4| 24.06.2023 | London (UK) | [Lee Valley Velo Park](https://www.runthrough.co.uk/) | Road | 21K | [01:59:18](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4909&EId=6&AId=114578) (Age cat 3rd place)
