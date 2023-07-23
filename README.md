@@ -9,15 +9,16 @@
 
 | Year         | Total Races     |
 |--------------|-----------|
-| 2023 |  7|
+| 2023 |  8|
 | 2022 |  27 |
 | 2021 |  16 |
-|  |  50|
+|  |  51|
 
 ## Races
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:|
+|8| 23.07.2023 | Munich (DE) | [12. Bavarian RUN](https://www.bavarian-run.de/) | Road | 15K | [01:15:26](https://www.sas-online.net/resultportal/index.php?eID=688&rID=3650&site=1)
 |7| 09.07.2023 | London (UK) | [Asics London 10k](https://asicslondon10k.com/) | Road | 10K | [00:48:25](https://results.sporthive.com/events/7079427854685417984/races/486324/bib/167)
 |6| 01.07.2023 | London (UK) | [Greenwich Park](https://www.runthrough.co.uk/) | Road | 10K | [00:50:37](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4918&EId=1&AId=117551)
 |5| 28.06.2023 | London (UK) | [Chase The Sun Battersea Park](https://www.runthrough.co.uk/) | Road | 10K | [00:48:19](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4911&EId=1&AId=116543)
