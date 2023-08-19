@@ -1,5 +1,3 @@
-# Races
-
 ## External Profiles
 
 - [Strava](https://www.strava.com/athletes/kumbasar)
