@@ -7,10 +7,10 @@
 
 | Year         |  Races     |
 |--------------|-----------|
-| 2023 |  10|
+| 2023 |  11|
 | 2022 |  27 |
 | 2021 |  16 |
-| Total |  53|
+| Total |  54|
 
 ## Races
 
@@ -18,7 +18,8 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|10| 13.08.2023 | Eskişehir | [4. ULUSLARARASI ESKİŞEHİR YARI MARATONU](https://www.eskisehiryarimaratonu.com/) | Road | 21K | [01:52:37](https://my.raceresult.com/256523/results)
+|11| 30.08.2023 | Bursa | [Nilüfer Bursa Yarı Maratonu](https://bursayarimaratonu.com) | Road | 21K | [01:54:16](https://bursayarimaratonu.com/bilgiler.aspx?sID=3)
+|10| 13.08.2023 | Eskişehir | [4. Uluslararası Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com/) | Road | 21K | [01:52:37](https://my.raceresult.com/256523/results)
 |9| 30.07.2023 | Istanbul | [Summer Run](http://summerrun.com.tr/) | Road | 10K | [00:48:45](https://my.raceresult.com/254370/results)
 |8| 23.07.2023 | Munich (DE) | [12. Bavarian RUN](https://www.bavarian-run.de/) | Road | 15K | [01:15:26](https://www.sas-online.net/resultportal/index.php?eID=688&rID=3650&site=1)
 |7| 09.07.2023 | London (UK) | [Asics London 10k](https://asicslondon10k.com/) | Road | 10K | [00:48:25](https://results.sporthive.com/events/7079427854685417984/races/486324/bib/167)
@@ -27,7 +28,7 @@
 |4| 24.06.2023 | London (UK) | [Lee Valley Velo Park](https://www.runthrough.co.uk/) | Road | 21K | [01:59:18](https://results.runthrough.co.uk/myresults.aspx?CId=16487&RId=4909&EId=6&AId=114578) (Age cat 3rd place)
 |3| 18.06.2023 | London (UK) | [Battersea Park 10k](https://www.runthrough.co.uk/) | Road | 10K | [00:50:14](https://results.runthrough.co.uk/myresults.aspx?uid=16487-4908-1-111461)
 |2| 11.06.2023 | Istanbul | [Cadde 10K - 21K Koşusu](http://cadde21k.kadikoy.bel.tr/) | Road | 21K | [01:57:12](https://etaptiming.com/d?CId=19782&RId=81&e_name=Cadde%2010K%20-%2021K&e_year=2023)
-|1| 21.05.2023 | Istanbul | [İSTANBUL’U KOŞUYORUM – ASYA ETABI 2023](https://istanbulukosuyorum.istanbul/)   | Road | 10K | [00:48:14](http://results.splittime.nl/results/ShowEvent.aspx?EventID=658)      |
+|1| 21.05.2023 | Istanbul | [İstanbul’ Koşuyorum – Asya Etabı 2023](https://istanbulukosuyorum.istanbul/)   | Road | 10K | [00:48:14](http://results.splittime.nl/results/ShowEvent.aspx?EventID=658)      |
 
 ### 2022
 
