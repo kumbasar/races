@@ -1,8 +1,3 @@
-## External Profiles
-
-- [Strava](https://www.strava.com/athletes/kumbasar)
-- [ITRA](https://itra.run/RunnerSpace/RaceResults/Kumbasar.Volkan/4664318)
-
 ## Overview
 
 | Year         |  Races     |
@@ -12,7 +7,7 @@
 | 2021 |  16 |
 | Total |  54|
 
-## Races
+## Race Results
 
 ### 2023
 
