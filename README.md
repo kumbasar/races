@@ -1,6 +1,6 @@
 ## Overview
 
-| Year         |  Races     |
+| Year         |  Total Races     |
 |--------------|-----------|
 | 2023 |  13|
 | 2022 |  27 |
