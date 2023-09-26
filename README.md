@@ -1,5 +1,3 @@
-## Overview
-
 | Year         |  Total Races     |
 |--------------|-----------|
 | 2023 |  13|
@@ -7,7 +5,7 @@
 | 2021 |  16 |
 | Total |  56|
 
-## Race Results
+# Race Results
 
 ### 2023
 
