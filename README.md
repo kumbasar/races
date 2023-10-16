@@ -1,9 +1,9 @@
 | Year         |  Total Races     |
 |--------------|-----------|
-| 2023 |  16|
+| 2023 |  17|
 | 2022 |  27 |
 | 2021 |  16 |
-| Total |  59|
+| Total |  60|
 
 # Race Results
 
@@ -11,6 +11,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|17| 15.10.2023 | Budapest (HUN) | [Budapest 150 Half Marathon](https://marathon.runinbudapest.com/budapest-150-half-marathon/) | Road | 21K | [01:44:52](https://bsieredmenylista.hu//spar-budapest-maraton-2023/felmaraton/)
 |16| 08.10.2023 | Istanbul | [İstanbul’u Koşuyorum – Avrupa Etabı 2023](https://istanbulukosuyorum.istanbul/) | Road | 10K | [00:48:56](http://results.splittime.nl/results/ShowEvent.aspx?EventID=707)
 |15| 01.10.2023 | Bursa | [Eker I Run](https://ekerkosu.com/) | Road | 15K | [01:20:17](http://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=264&EId=2&AId=210515)
 |14| 30.09.2023 | Istanbul | [RUN FOR SMA 6K - Istanbul Park](https://maltepevespor.maltepe.bel.tr/) | Fun | 5K | [00:26:17](https://www.strava.com/activities/9947282730)
