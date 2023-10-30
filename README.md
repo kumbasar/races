@@ -1,4 +1,4 @@
-| Year         |   Races     | Abroad | Marathon | Half Marathon |
+| Year         |   Races     | Abroad | Marathons | Half Marathons |
 |--------------|-----------|-----------| -----------| -----------| 
 | 2023 |  20|   8 | 1 | 5|
 | 2022 |  27 |  1 | 2 | 8 |
