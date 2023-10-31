@@ -12,7 +12,7 @@
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
 |20| 29.10.2023 | Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com) | Road | 8k | [00:45:35.08](https://argeustiming.com/results/g-live/g-live.html?f=../29ekim/2023/ataturkkosusu2023.clax)
-|19| 29.10.2023 | Istanbul | [29 Ekim 100. Yıl Cumhuriyet Koşusu](https://www.taf.org.tr/Haber/Detay/29-ekim-100-yil-cumhuriyet-kosusu-yapildi) | Road | 10k | [00:50:24](https://bys.taf.org.tr/GeciciDosyalar/a82d5b96-a738-4e2a-9cf1-2fc33c663e99.pdf)
+|19| 29.10.2023 | Istanbul | [29 Ekim 100. Yıl Cumhuriyet Koşusu](https://www.taf.org.tr/Haber/Detay/29-ekim-100-yil-cumhuriyet-kosusu-yapildi) | Road | 10k | [00:50:24](https://my.raceresult.com/266226/results)
 |18| 22.10.2023 | Istanbul | [Uluslararası 14.Zeytinburnu Cumhuriyet Koşusu](https://zeytinburnucumhuriyetkosusu.com/) | Road | 10k | [00:49:52.95](http://racetiming.com.tr/wp-content/uploads/2023/10/zeytin2023genel.pdf)
 |17| 15.10.2023 | Budapest (HUN) | [Budapest 150 Half Marathon](https://marathon.runinbudapest.com/budapest-150-half-marathon/) | Road | Half Marathon | [01:44:52](https://bsieredmenylista.hu//spar-budapest-maraton-2023/felmaraton/)
 |16| 08.10.2023 | Istanbul | [İstanbul’u Koşuyorum – Avrupa Etabı 2023](https://istanbulukosuyorum.istanbul/) | Road | 10K | [00:48:56](http://results.splittime.nl/results/ShowEvent.aspx?EventID=707)
