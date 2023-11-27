@@ -1,9 +1,9 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2023 |  21|  1 | 5| 
+| 2023 |  22|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **64**|  **3** | **14**| 
+| **Total** |  **65**|  **3** | **15**| 
 
 # Race Results
 
@@ -11,6 +11,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|22| 26.11.2023 | Milano (IT) | [Milano21](https://followyourpassion.it/en/milano21/) | Road | Half Marathon | [01:48:22](https://www.endu.net/en/events/milano21/results/2023/81136/2532)
 |21| 05.11.2023 | Istanbul | [45. Istanbul Maratonu](https://maraton.istanbul/) | Road | 15k | [01:15:35](https://results.splittime.nl/results/ShowEvent.aspx?EventID=715)
 |20| 29.10.2023 | Istanbul | [29 Ekim Atatürk Koşusu](https://ataturkkosusu.com) | Road | 8k | [00:45:35.08](https://argeustiming.com/results/g-live/g-live.html?f=../29ekim/2023/ataturkkosusu2023.clax)
 |19| 29.10.2023 | Istanbul | [29 Ekim 100. Yıl Cumhuriyet Koşusu](https://www.taf.org.tr/Haber/Detay/29-ekim-100-yil-cumhuriyet-kosusu-yapildi) | Road | 10k | [00:50:24](https://my.raceresult.com/266226/results)
