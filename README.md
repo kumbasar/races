@@ -1,9 +1,9 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2023 |  23|  1 | 6| 
+| 2023 |  24|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **66**|  **3** | **15**| 
+| **Total** |  **67**|  **3** | **15**| 
 
 # Race Results
 
@@ -11,6 +11,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|24| 10.12.2022 | Istanbul | [Geyik Koşuları](https://www.geyikkosulari.com) | Trail | 14K | [01:36:03](http://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=266&EId=2&AId=215807) |
 |23| 02.12.2023 | Balikesir | [Ida Ultra Zeus Koşusu](https://www.idaultra.com/)  | Trail | 36K  | [05:22:24.06](https://argeustiming.com/results/g-live/g-live.html?f=../idaultra/2023/ida2023.clax)
 |22| 26.11.2023 | Milano (IT) | [Milano21](https://followyourpassion.it/en/milano21/) | Road | Half Marathon | [01:48:22](https://www.endu.net/en/events/milano21/results/2023/81136/2532)
 |21| 05.11.2023 | Istanbul | [45. Istanbul Maratonu](https://maraton.istanbul/) | Road | 15k | [01:15:35](https://results.splittime.nl/results/ShowEvent.aspx?EventID=715)
