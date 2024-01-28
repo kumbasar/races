@@ -1,17 +1,25 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
+| 2024 |  1|  0| 0| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **68**|  **3** | **15**| 
+| **Total** |  **69**|  **3** | **15**| 
 
 # Race Results
+
+
+### 2024
+
+|# | Date         | City |  Race     | Type | Course |Time |
+|--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|1 | 28.01.2024 | Istanbul | [13. Uğur Mumcu Anma Yol Koşusu](https://teamkronos.com/ugur-mumcu-yolkosusu/) | Road | 10K | [47:47:00](https://my.raceresult.com/275468/) |
 
 ### 2023
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|25| 24.12.2023 | Ankara | [88. Büyük Atatürk Koşusu ](https://www.taf.org.tr/Duyuru/Detay/88-buyuk-ataturk-kosusu-katilinci-listeleri-yayinlandi) | Road | 9K ? | [00:41:31](https://argeustiming.com/results/g-live/g-live.html?f=../buyukataturkkosusu/2023/bak2023.clax) |
+|25| 24.12.2023 | Ankara | [88. Büyük Atatürk Koşusu](https://www.taf.org.tr/Duyuru/Detay/88-buyuk-ataturk-kosusu-katilinci-listeleri-yayinlandi) | Road | 9K ? | [00:41:31](https://argeustiming.com/results/g-live/g-live.html?f=../buyukataturkkosusu/2023/bak2023.clax) |
 |24| 10.12.2023 | Istanbul | [Geyik Koşuları](https://www.geyikkosulari.com) | Trail | 14K | [01:36:03](http://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=266&EId=2&AId=215807) |
 |23| 02.12.2023 | Balikesir | [Ida Ultra Zeus Koşusu](https://www.idaultra.com/)  | Trail | 36K  | [05:22:24.06](https://argeustiming.com/results/g-live/g-live.html?f=../idaultra/2023/ida2023.clax)
 |22| 26.11.2023 | Milano (IT) | [Milano21](https://followyourpassion.it/en/milano21/) | Road | Half Marathon | [01:48:22](https://www.endu.net/en/events/milano21/results/2023/81136/2532)
