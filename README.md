@@ -1,10 +1,10 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  1|  0| 0| 
+| 2024 |  2|  0| 1| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **69**|  **3** | **15**| 
+| **Total** |  **70**|  **3** | **16**| 
 
 # Race Results
 
@@ -13,7 +13,9 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|2 | 11.02.2024 | Barcelona (ESP) | [eDreams Mitja Marató Barcelona by Brooks](https://edreamsmitjabarcelona.com/) | Road | Half Marathon  | [01:46:19](https://edreamsmitjabarcelona.com/resultados/) |
 |1 | 28.01.2024 | Istanbul | [13. Uğur Mumcu Anma Yol Koşusu](https://teamkronos.com/ugur-mumcu-yolkosusu/) | Road | 10K | [47:47:00](https://my.raceresult.com/275468/) |
+
 
 ### 2023
 
