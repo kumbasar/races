@@ -1,10 +1,10 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  3|  0| 2| 
+| 2024 |  4|  0| 3| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **71**|  **3** | **17**| 
+| **Total** |  **72**|  **3** | **18**| 
 
 # Race Results
 
@@ -13,6 +13,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|4 | 07.04.2024 | Berlin (DE) | [43rd Generali Berlin Half Marathon](https://www.generali-berliner-halbmarathon.de/en/) | Road | Half Marathon  | [01:47:32](https://berlinerhm.r.mikatiming.net/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OH85A3C&lang=DE&event=HML&search%5Bfirstname%5D=volkan&search_event=HML) |
 |3 | 03.03.2024 | Roma (ITA) | [Eurospin RomaOstia Half Marathon](https://www.romaostia.it/?lang=en) | Road | Half Marathon  | [01:51:41](https://www.endu.net/en/events/eurospin-roma-ostia-2024/results/2024/85691/4438) |
 |2 | 11.02.2024 | Barcelona (ESP) | [eDreams Mitja Marató Barcelona by Brooks](https://edreamsmitjabarcelona.com/) | Road | Half Marathon  | [01:46:19](https://edreamsmitjabarcelona.com/resultados/) |
 |1 | 28.01.2024 | Istanbul | [13. Uğur Mumcu Anma Yol Koşusu](https://teamkronos.com/ugur-mumcu-yolkosusu/) | Road | 10K | [47:47:00](https://my.raceresult.com/275468/) |
