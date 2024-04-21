@@ -1,10 +1,10 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  5|  1| 3| 
+| 2024 |  6|  1| 4| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **73**|  **4** | **18**| 
+| **Total** |  **74**|  **4** | **19**| 
 
 # Race Results
 
@@ -13,6 +13,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|6 | 21.05.2024 | Zuerich (CH) | [21. OCHSNER SPORT Zürich Marathon](https://www.zuerichmarathon.ch/) | Road | Half Marathon  | [01:43:17](https://my1.raceresult.com/265564/certificates/11943/Finisher%20Certificate) (PB) |
 |5 | 14.04.2024 | Rotterdam (NL) | [Marathon Rotterdam](https://www.nnmarathonrotterdam.org/) | Road | Marathon  | [04:07:27](https://results.sporthive.com/events/7183110323454187008/races/489067/bib/22843) |
 |4 | 07.04.2024 | Berlin (DE) | [43rd Generali Berlin Half Marathon](https://www.generali-berliner-halbmarathon.de/en/) | Road | Half Marathon  | [01:47:32](https://berlinerhm.r.mikatiming.net/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OH85A3C&lang=DE&event=HML&search%5Bfirstname%5D=volkan&search_event=HML) |
 |3 | 03.03.2024 | Roma (ITA) | [Eurospin RomaOstia Half Marathon](https://www.romaostia.it/?lang=en) | Road | Half Marathon  | [01:51:41](https://www.endu.net/en/events/eurospin-roma-ostia-2024/results/2024/85691/4438) |
@@ -77,7 +78,7 @@
 |7| 23.04.2022 | Istanbul |  [Istanbul Ultra Trail](https://istanbulultratrail.com/TR/?p=iu-15K) | Trail | 15K | [01:28:37](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=62&EId=4&AId=42133) |
 |6| 17.04.2022 | Izmir |  [Maraton Izmir](https://www.maratonizmir.org/) | Road | Marathon | [04:20:00](https://maratonizmir.depar.hr/2022/) |
 |5 | 09.04.2022 | Istanbul |  [Under Armour Gece Koşuları - Nisan](https://uzunetap.com/TR/?p=Under-Armour-Gece-Kosulari) | Trail | 12K | [01:00:05](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=60&EId=2&AId=38900) |
-|4 | 27.03.2022 | Istanbul | [N Kolay 17. İstanbul Yarı Maratonu](https://www.istanbulyarimaratonu.com) | Road | Half Marathon | [01:44:45](http://results.splittime.nl/results/ShowEvent.aspx?EventID=477) (PB) |
+|4 | 27.03.2022 | Istanbul | [N Kolay 17. İstanbul Yarı Maratonu](https://www.istanbulyarimaratonu.com) | Road | Half Marathon | [01:44:45](http://results.splittime.nl/results/ShowEvent.aspx?EventID=477) |
 |3| 20.03.2022 | Istanbul | [The North Face Geyik Koşuları 2022 I](https://www.geyikkosulari.com) | Trail | 14K | [01:37:34](http://sonuc.plustiming.com/MyResults.aspx?uid=16389-253-2-178292) |
 |2 | 06.03.2022 | Antalya | [Runtalya](https://runtalya.com)   | Road | Half Marathon | [01:48:38](http://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=251&EId=2&AId=171572) |
 |1| 23.01.2022 | Istanbul | [11. Uğur Mumcu Yol Koşusu](https://teamkronos.com/ugur-mumcu-yolkosusu/) | Road | 5K | [00:25:36](https://drive.google.com/file/d/1fjCiKb6XSXYninMrx90xxEfwjV4d3zcj/view) |
