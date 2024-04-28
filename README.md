@@ -1,10 +1,10 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  6|  1| 4| 
+| 2024 |  7|  1| 5| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **74**|  **4** | **19**| 
+| **Total** |  **75**|  **4** | **20**| 
 
 # Race Results
 
@@ -13,6 +13,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|7 | 28.05.2024 | Istanbul | [19. Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon  | [01:47:31](https://results.splittime.nl/results/ShowEvent.aspx?EventID=740)|
 |6 | 21.05.2024 | Zuerich (CH) | [21. OCHSNER SPORT Zürich Marathon](https://www.zuerichmarathon.ch/) | Road | Half Marathon  | [01:43:17](https://my1.raceresult.com/265564/certificates/11943/Finisher%20Certificate) (PB) |
 |5 | 14.04.2024 | Rotterdam (NL) | [Marathon Rotterdam](https://www.nnmarathonrotterdam.org/) | Road | Marathon  | [04:07:27](https://results.sporthive.com/events/7183110323454187008/races/489067/bib/22843) |
 |4 | 07.04.2024 | Berlin (DE) | [43rd Generali Berlin Half Marathon](https://www.generali-berliner-halbmarathon.de/en/) | Road | Half Marathon  | [01:47:32](https://berlinerhm.r.mikatiming.net/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OH85A3C&lang=DE&event=HML&search%5Bfirstname%5D=volkan&search_event=HML) |
