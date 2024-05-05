@@ -1,10 +1,10 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  7|  1| 5| 
+| 2024 |  8|  1| 5| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **75**|  **4** | **20**| 
+| **Total** |  **76**|  **4** | **20**| 
 
 # Race Results
 
@@ -13,8 +13,9 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|7 | 28.05.2024 | Istanbul | [19. Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon  | [01:47:31](https://results.splittime.nl/results/ShowEvent.aspx?EventID=740)|
-|6 | 21.05.2024 | Zuerich (CH) | [21. OCHSNER SPORT Zürich Marathon](https://www.zuerichmarathon.ch/) | Road | Half Marathon  | [01:43:17](https://my1.raceresult.com/265564/certificates/11943/Finisher%20Certificate) (PB) |
+|8 | 05.05.2024 | Istanbul | [Wings For Life World Run](https://www.wingsforlifeworldrun.com/l) | Road | 17.91K | [01:42:44](https://www.wingsforlifeworldrun.com/live/en/results)|
+|7 | 28.04.2024 | Istanbul | [19. Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon  | [01:47:31](https://results.splittime.nl/results/ShowEvent.aspx?EventID=740)|
+|6 | 21.04.2024 | Zuerich (CH) | [21. OCHSNER SPORT Zürich Marathon](https://www.zuerichmarathon.ch/) | Road | Half Marathon  | [01:43:17](https://my1.raceresult.com/265564/certificates/11943/Finisher%20Certificate) (PB) |
 |5 | 14.04.2024 | Rotterdam (NL) | [Marathon Rotterdam](https://www.nnmarathonrotterdam.org/) | Road | Marathon  | [04:07:27](https://results.sporthive.com/events/7183110323454187008/races/489067/bib/22843) |
 |4 | 07.04.2024 | Berlin (DE) | [43rd Generali Berlin Half Marathon](https://www.generali-berliner-halbmarathon.de/en/) | Road | Half Marathon  | [01:47:32](https://berlinerhm.r.mikatiming.net/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OH85A3C&lang=DE&event=HML&search%5Bfirstname%5D=volkan&search_event=HML) |
 |3 | 03.03.2024 | Roma (ITA) | [Eurospin RomaOstia Half Marathon](https://www.romaostia.it/?lang=en) | Road | Half Marathon  | [01:51:41](https://www.endu.net/en/events/eurospin-roma-ostia-2024/results/2024/85691/4438) |
