@@ -1,10 +1,10 @@
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  9|  1| 6| 
+| 2024 |  10|  1| 7| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **77**|  **4** | **21**| 
+| **Total** |  **78**|  **4** | **22**| 
 
 # Race Results
 
@@ -13,6 +13,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|10 | 26.05.2024 | Istanbul | [Cadde 10K-21K](https://cadde21k.kadikoy.bel.tr) | Road | Half Marathon | [02:03:51](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=102&EId=2&AId=81762)|
 |9 | 19.05.2024 | London (UK) | [Wizz Air Hackney Moves](https://www.hackneymoves.com/) | Road | Half Marathon | [02:07:00](https://results.sporthive.com/events/7188175940965322240/races/489216/bib/18086)|
 |8 | 05.05.2024 | Istanbul | [Wings For Life World Run](https://www.wingsforlifeworldrun.com/l) | Road | 17.91K | [01:42:44](https://www.wingsforlifeworldrun.com/live/en/results)|
 |7 | 28.04.2024 | Istanbul | [19. Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon  | [01:47:31](https://results.splittime.nl/results/ShowEvent.aspx?EventID=740)|
