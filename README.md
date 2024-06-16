@@ -1,5 +1,3 @@
-# Results
-
 ## Overview
 
 | Year         |   Races     | Marathons | Half Marathons |
