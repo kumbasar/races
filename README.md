@@ -1,3 +1,7 @@
+# Results
+
+## Overview
+
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
 | 2024 |  11|  1| 8| 
@@ -6,8 +10,7 @@
 | 2021 |  16 |  0 | 1 |
 | **Total** |  **79**|  **4** | **22**| 
 
-# Race Results
-
+## Details
 
 ### 2024
 
