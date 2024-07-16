@@ -2,11 +2,11 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  12|  1| 8| 
+| 2024 |  13|  1| 8| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **80**|  **4** | **22**| 
+| **Total** |  **81**|  **4** | **22**| 
 
 ## Details
 
@@ -14,7 +14,8 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|12 | 07.07.2024 | Istanbul | [4. Uluslararası Srebrenitsa Boşnak Soykırımı Anma Koşusu](https://www.bakirkoy.bel.tr/) | Fun | 7k | [00:37:11](https://www.strava.com/activities/11827013391)
+|13| 14.07.2023 | London (UK) | [Saucony London 10k](https://www.thelondon10k.com/) | Road | 10K | [00:47:36](https://results.sporthive.com/events/7213854751430481920/races/490110/bib/13294)
+|12 | 07.07.2024 | Istanbul | [4. Uluslararası Srebrenitsa Boşnak Soykırımı Anma Koşusu](https://www.bakirkoy.bel.tr/) | Fun | 7k | [00:37:11](https://www.strava.com/activities/11827013391) | 
 |11 | 08.06.2024 | Helsinki (FI) | [BMW Helsinki Half Marathon](https://helsinkihalfmarathon.fi/) | Road | Half Marathon | [01:55:26](https://live.ultimate.dk/desktop/front/index.php?eventid=6368&ignoreuseragent=true)|
 |10 | 26.05.2024 | Istanbul | [Cadde 10K-21K](https://cadde21k.kadikoy.bel.tr) | Road | Half Marathon | [02:03:51](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=102&EId=2&AId=81762)|
 |9 | 19.05.2024 | London (UK) | [Wizz Air Hackney Moves](https://www.hackneymoves.com/) | Road | Half Marathon | [02:07:00](https://results.sporthive.com/events/7188175940965322240/races/489216/bib/18086)|
