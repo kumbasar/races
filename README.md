@@ -2,11 +2,11 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  13|  1| 8| 
+| 2024 |  14|  1| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **81**|  **4** | **22**| 
+| **Total** |  **82**|  **4** | **24**| 
 
 ## Details
 
@@ -14,6 +14,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|14| 21.09.2023 | Oslo (NOR) | [Oslo Maraton](https://oslomaraton.no/en/) | Road | Half Marathon | [01:45:16](https://live.ultimate.dk/desktop/front/index.php?eventid=6200&ignoreuseragent=true)|
 |13| 14.07.2023 | London (UK) | [Saucony London 10k](https://www.thelondon10k.com/) | Road | 10K | [00:47:36](https://results.sporthive.com/events/7213854751430481920/races/490110/bib/13294)
 |12 | 07.07.2024 | Istanbul | [4. Uluslararası Srebrenitsa Boşnak Soykırımı Anma Koşusu](https://www.bakirkoy.bel.tr/) | Fun | 7k | [00:37:11](https://www.strava.com/activities/11827013391) | 
 |11 | 08.06.2024 | Helsinki (FI) | [BMW Helsinki Half Marathon](https://helsinkihalfmarathon.fi/) | Road | Half Marathon | [01:55:26](https://live.ultimate.dk/desktop/front/index.php?eventid=6368&ignoreuseragent=true)|
