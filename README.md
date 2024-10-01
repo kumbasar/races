@@ -2,11 +2,11 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  14|  1| 9| 
+| 2024 |  15|  2| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **82**|  **4** | **24**| 
+| **Total** |  **83**|  **5** | **24**| 
 
 ## Details
 
@@ -14,8 +14,9 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|14| 21.09.2023 | Oslo (NOR) | [Oslo Maraton](https://oslomaraton.no/en/) | Road | Half Marathon | [01:45:16](https://live.ultimate.dk/desktop/front/index.php?eventid=6200&ignoreuseragent=true)|
-|13| 14.07.2023 | London (UK) | [Saucony London 10k](https://www.thelondon10k.com/) | Road | 10K | [00:47:36](https://results.sporthive.com/events/7213854751430481920/races/490110/bib/13294)
+|15| 29.09.2024 | Berlin (DE) | [BMW BERLIN-MARATHON 2024](https://www.bmw-berlin-marathon.com) | Road | Marathon | [03:54:36](https://berlin.r.mikatiming.com/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OHA6B91&lang=EN_CAP&event=BML_HCH3C0OH266&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=kumbasar&search_event=BML_HCH3C0OH266) (PB)
+|14| 21.09.2024 | Oslo (NOR) | [Oslo Maraton](https://oslomaraton.no/en/) | Road | Half Marathon | [01:45:16](https://live.ultimate.dk/desktop/front/index.php?eventid=6200&ignoreuseragent=true)|
+|13| 14.07.2024 | London (UK) | [Saucony London 10k](https://www.thelondon10k.com/) | Road | 10K | [00:47:36](https://results.sporthive.com/events/7213854751430481920/races/490110/bib/13294)
 |12 | 07.07.2024 | Istanbul | [4. Uluslararası Srebrenitsa Boşnak Soykırımı Anma Koşusu](https://www.bakirkoy.bel.tr/) | Fun | 7k | [00:37:11](https://www.strava.com/activities/11827013391) | 
 |11 | 08.06.2024 | Helsinki (FI) | [BMW Helsinki Half Marathon](https://helsinkihalfmarathon.fi/) | Road | Half Marathon | [01:55:26](https://live.ultimate.dk/desktop/front/index.php?eventid=6368&ignoreuseragent=true)|
 |10 | 26.05.2024 | Istanbul | [Cadde 10K-21K](https://cadde21k.kadikoy.bel.tr) | Road | Half Marathon | [02:03:51](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=102&EId=2&AId=81762)|
@@ -46,7 +47,7 @@
 |16| 08.10.2023 | Istanbul | [İstanbul’u Koşuyorum – Avrupa Etabı 2023](https://istanbulukosuyorum.istanbul/) | Road | 10K | [00:48:56](http://results.splittime.nl/results/ShowEvent.aspx?EventID=707)
 |15| 01.10.2023 | Bursa | [Eker I Run](https://ekerkosu.com/) | Road | 15K | [01:20:17](http://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=264&EId=2&AId=210515)
 |14| 30.09.2023 | Istanbul | [RUN FOR SMA 6K - Istanbul Park](https://maltepevespor.maltepe.bel.tr/) | Fun | 5K | [00:26:17](https://www.strava.com/activities/9947282730)
-|13| 24.09.2023 | Berlin (DE) | [BMW BERLIN-MARATHON 2023](https://www.bmw-berlin-marathon.com) | Road | Marathon | [04:01:00](https://berlin.r.mikatiming.com/2023/?content=detail&fpid=search&pid=search&idp=HCH3C0OH757E7&lang=DE&event=BML&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=Kumbasar&search%5Bfirstname%5D=Volkan&search%5Bstart_no%5D=61050&search_event=BML) (PB)
+|13| 24.09.2023 | Berlin (DE) | [BMW BERLIN-MARATHON 2023](https://www.bmw-berlin-marathon.com) | Road | Marathon | [04:01:00](https://berlin.r.mikatiming.com/2023/?content=detail&fpid=search&pid=search&idp=HCH3C0OH757E7&lang=DE&event=BML&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=Kumbasar&search%5Bfirstname%5D=Volkan&search%5Bstart_no%5D=61050&search_event=BML) 
 |12| 09.09.2023 | Istanbul | [Belgrad Ultra Trail](https://www.belgradultratrail.com/) | Trail | 30K | [03:41:30](http://limitlab.org/g-live/g-live.html?f=../results/gecici_canli_sonuclar/Merrell%20Belgrad%20Ultra%20Trail%202023.clax)
 |11| 30.08.2023 | Bursa | [Nilüfer Bursa Yarı Maratonu](https://bursayarimaratonu.com) | Road | Half Marathon | [01:54:16](https://bursayarimaratonu.com/bilgiler.aspx?sID=3)
 |10| 13.08.2023 | Eskişehir | [4. Uluslararası Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com/) | Road | Half Marathon | [01:52:37](https://my.raceresult.com/256523/results)
