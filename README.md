@@ -2,11 +2,11 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  15|  2| 9| 
+| 2024 |  16|  2| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **83**|  **5** | **24**| 
+| **Total** |  **84**|  **5** | **24**| 
 
 ## Details
 
@@ -14,6 +14,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|16| 13.10.2024 | Budapest (HUN) | [SPAR Budapest Maraton - Regnum 30 km](https://marathon.runinbudapest.com/30-km/) | Road | 30k | [02:35:39](https://bsieredmenylista.hu/spar-budapest-maraton-2024/30km/) (PB)
 |15| 29.09.2024 | Berlin (DE) | [BMW BERLIN-MARATHON 2024](https://www.bmw-berlin-marathon.com) | Road | Marathon | [03:54:36](https://berlin.r.mikatiming.com/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OHA6B91&lang=EN_CAP&event=BML_HCH3C0OH266&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=kumbasar&search_event=BML_HCH3C0OH266) (PB)
 |14| 21.09.2024 | Oslo (NOR) | [Oslo Maraton](https://oslomaraton.no/en/) | Road | Half Marathon | [01:45:16](https://live.ultimate.dk/desktop/front/index.php?eventid=6200&ignoreuseragent=true)|
 |13| 14.07.2024 | London (UK) | [Saucony London 10k](https://www.thelondon10k.com/) | Road | 10K | [00:47:36](https://results.sporthive.com/events/7213854751430481920/races/490110/bib/13294)
