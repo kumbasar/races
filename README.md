@@ -2,11 +2,11 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2024 |  17|  2| 9| 
+| 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **85**|  **5** | **24**| 
+| **Total** |  **86**|  **6** | **24**| 
 
 ## Details
 
@@ -14,6 +14,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|18| 01.12.2025 | Valencia (ESP) | [Valencia Marathon Trinidad Alfonso Zurich](https://www.valenciaciudaddelrunning.com/en/marathon/maraton/) | Road | Marathon | [04:06:28](https://www.valenciaciudaddelrunning.com/en/marathon/2024-marathon-ranking/)
 |17| 03.11.2025 | Istanbul | [46. Istanbul Maratonu](https://maraton.istanbul/) | Road | 15k | [01:12:39](https://results.splittime.nl/results/ShowEvent.aspx?EventID=807)
 |16| 13.10.2024 | Budapest (HUN) | [SPAR Budapest Maraton - Regnum 30 km](https://marathon.runinbudapest.com/30-km/) | Road | 30k | [02:35:39](https://bsieredmenylista.hu/spar-budapest-maraton-2024/30km/) 
 |15| 29.09.2024 | Berlin (DE) | [BMW BERLIN-MARATHON 2024](https://www.bmw-berlin-marathon.com) | Road | Marathon | [03:54:36](https://berlin.r.mikatiming.com/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OHA6B91&lang=EN_CAP&event=BML_HCH3C0OH266&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=kumbasar&search_event=BML_HCH3C0OH266) 
