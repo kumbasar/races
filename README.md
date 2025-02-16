@@ -15,7 +15,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|1 | 28.01.2024 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:47:57](https://my.raceresult.com/325884/results) |
+|1 | 16.02.2025 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:47:57](https://my.raceresult.com/325884/results) |
 
 
 ### 2024
