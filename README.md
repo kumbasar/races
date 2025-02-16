@@ -2,13 +2,21 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
+| 2025 |  1|  0| 0| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **86**|  **6** | **24**| 
+| **Total** |  **87**|  **6** | **24**| 
 
 ## Details
+
+### 2025
+
+|# | Date         | City |  Race     | Type | Course |Time |
+|--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|1 | 28.01.2024 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:47:57](https://my.raceresult.com/325884/results) |
+
 
 ### 2024
 
