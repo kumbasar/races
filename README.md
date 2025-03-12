@@ -2,12 +2,12 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2025 |  1|  0| 0| 
+| 2025 |  2|  0| 1| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **87**|  **6** | **24**| 
+| **Total** |  **88**|  **6** | **25**| 
 
 ## Details
 
@@ -15,6 +15,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|2 | 09.03.2025 | Lisbon (P) | [EDP Lisbon Half Marathon](https://maratonaclubedeportugal.com/en/) | Road | Half Marathon | [01:48:24](https://results.sporthive.com/events/7250556144618307584/races/491104/bib/17432) |
 |1 | 16.02.2025 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:47:57](https://my.raceresult.com/325884/results) |
 
 
