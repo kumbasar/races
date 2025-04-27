@@ -14,8 +14,8 @@
 ### 2025
 
 |# | Date         | City |  Race     | Type | Course |Time |
-|5 | 27.04.2025 | Istanbul | [20. Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon  | [01:49:22](https://results.splittime.nl/results/ShowEvent.aspx?EventID=827)|
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|5 | 27.04.2025 | Istanbul | [20. Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon  | [01:49:22](https://results.splittime.nl/results/ShowEvent.aspx?EventID=827)|
 |4 | 13.04.2025 | Istanbul | [Bosphorun Quarter Marathon](https://bosphorun.istanbul/) | Road | 1/4 Marathon | [00:48:28](https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=310&EId=3&AId=273179) |
 |3 | 05.04.2025 | Prague (CZ) | [The Generali Prague Half Marathon](https://www.runczech.com/en/events/generali-prague-half-marathon-2025) | Road | Half Marathon | [01:46:52](https://www.runczech.com/en/result-detail?result_id=552310) |
 |2 | 09.03.2025 | Lisbon (P) | [EDP Lisbon Half Marathon](https://maratonaclubedeportugal.com/en/) | Road | Half Marathon | [01:48:24](https://results.sporthive.com/events/7250556144618307584/races/491104/bib/17432) |
