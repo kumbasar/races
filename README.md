@@ -2,12 +2,12 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2025 |  7|   0| 4| 
+| 2025 |  8|   0| 5| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **93**|  **6** | **28**| 
+| **Total** |  **94**|  **6** | **29**| 
 
 ## Details
 
@@ -15,6 +15,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|8 | 03.08.2025 | Eskişehir | [6. Uluslararası Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com/) | Road | Half Marathon | [01:50:22](https://hurratiming.com/event/22/38/2/107)
 |7 | 25.05.2025 | Istanbul | [Cadde 10K-21K](https://cadde21k.kadikoy.bel.tr/) | Road | Half Marathon | [01:54:56](https://etaptiming.com/d-tr?CId=19782&RId=111&e_name=Cadde%2010K&21K&e_year=2025)|
 |6 | 04.05.2025 | Istanbul | [Wings for Life World Run](https://www.wingsforlifeworldrun.com/) | Road | App Run  | [15.8k](https://www.wingsforlifeworldrun.com/live/en/participants/Qga04g)|
 |5 | 27.04.2025 | Istanbul | [20. Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon  | [01:49:22](https://results.splittime.nl/results/ShowEvent.aspx?EventID=827)|
