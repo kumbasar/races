@@ -2,12 +2,12 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2025 |  9|   0| 6| 
+| 2025 |  10|   1| 6| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **95**|  **6** | **30**| 
+| **Total** |  **96**|  **7** | **30**| 
 
 ## Details
 
@@ -15,6 +15,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|10 | 21.09.2025 | Berlin (DE) | [BMW BERLIN-MARATHON](https://www.bmw-berlin-marathon.com/en/) | Road | Marathon | [04:28:37](https://berlin.r.mikatiming.com/2025/?content=detail&fpid=search&pid=search&idp=HCH3C0OHCAC50&lang=EN_CAP&event=BML_HCH3C0OH2F2&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=kumbasar&search_event=BML_HCH3C0OH2F2)
 |9 | 31.08.2025 | Istanbul | [Summer Run](https://summerrun.com.tr/) | Road | Half Marathon | [01:56:29](https://etaptiming.com/d-tr?CId=19782&RId=117&e_name=Summer%20Run%20III&e_year=2025)
 |8 | 03.08.2025 | Eskişehir | [6. Uluslararası Eskişehir Yarı Maratonu](https://www.eskisehiryarimaratonu.com/) | Road | Half Marathon | [01:50:22](https://hurratiming.com/event/22/38/2/107)
 |7 | 25.05.2025 | Istanbul | [Cadde 10K-21K](https://cadde21k.kadikoy.bel.tr/) | Road | Half Marathon | [01:54:56](https://etaptiming.com/d-tr?CId=19782&RId=111&e_name=Cadde%2010K&21K&e_year=2025)|
