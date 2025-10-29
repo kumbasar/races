@@ -15,7 +15,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|13 | 29.10.2025 | Istanbul | [2. Uluslararası Sancaktepe Belediyesi Cumhuriyet Yol Koşusu](https://www.valenciaciudaddelrunning.com/en/half/half-marathon/) | Road | 10k  | [00:49:16](https://my.raceresult.com/368871/results)
+|13 | 29.10.2025 | Istanbul | [2. Uluslararası Sancaktepe Belediyesi Cumhuriyet Yol Koşusu](https://taf.org.tr/event/sancaktepe-belediyesi-cumhuriyet-yol-kosusu/) | Road | 10k  | [00:49:16](https://my.raceresult.com/368871/results)
 |12 | 26.10.2025 | Valencia (ESP) | [34th Trinidad Alfonso Zurich Valencia Half Marathon](https://www.valenciaciudaddelrunning.com/en/half/half-marathon/) | Road | Half Marathon  | [01:52:33](https://www.valenciaciudaddelrunning.com/en/half/2025-half-marathon-ranking/?utm_campaign=%2321K%20CLASIFICACIONES%202025%20%28ENG%29&utm_medium=email&utm_source=Mailjet)
 |11 | 12.10.2025 | Istanbul | [Bosphorun Quarter Marathon - Bebek x Ortaköy](https://bosphorun.istanbul/) | Road | 1/4 Marathon  | [00:47:51](https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=315&EId=3&AId=295708)
 |10 | 21.09.2025 | Berlin (DE) | [BMW BERLIN-MARATHON](https://www.bmw-berlin-marathon.com/en/) | Road | Marathon | [04:28:37](https://berlin.r.mikatiming.com/2025/?content=detail&fpid=search&pid=search&idp=HCH3C0OHCAC50&lang=EN_CAP&event=BML_HCH3C0OH2F2&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=kumbasar&search_event=BML_HCH3C0OH2F2)
