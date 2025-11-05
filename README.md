@@ -2,12 +2,12 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2025 |  13|   1| 7| 
+| 2025 |  14|   1| 7| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **99**|  **7** | **31**| 
+| **Total** |  **100**|  **7** | **31**| 
 
 ## Details
 
@@ -15,6 +15,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|14| 02.11.2025 | Istanbul | [47. Istanbul Maratonu](https://maraton.istanbul/) | Road | 15.5k | [01:17:31](https://results.splittime.nl/results/ShowEvent.aspx?EventID=6832)
 |13 | 29.10.2025 | Istanbul | [2. Uluslararası Sancaktepe Belediyesi Cumhuriyet Yol Koşusu](https://taf.org.tr/event/sancaktepe-belediyesi-cumhuriyet-yol-kosusu/) | Road | 10k  | [00:49:16](https://my.raceresult.com/368871/results)
 |12 | 26.10.2025 | Valencia (ESP) | [34th Trinidad Alfonso Zurich Valencia Half Marathon](https://www.valenciaciudaddelrunning.com/en/half/half-marathon/) | Road | Half Marathon  | [01:52:33](https://www.valenciaciudaddelrunning.com/en/half/2025-half-marathon-ranking/?utm_campaign=%2321K%20CLASIFICACIONES%202025%20%28ENG%29&utm_medium=email&utm_source=Mailjet)
 |11 | 12.10.2025 | Istanbul | [Bosphorun Quarter Marathon - Bebek x Ortaköy](https://bosphorun.istanbul/) | Road | 1/4 Marathon  | [00:47:51](https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=315&EId=3&AId=295708)
