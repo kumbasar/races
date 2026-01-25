@@ -2,14 +2,21 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
+| 2026 |  1 |   0| 0| 
 | 2025 |  15|   1| 7| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **101**|  **7** | **31**| 
+| **Total** |  **102**|  **7** | **31**| 
 
 ## Details
+
+### 2026
+
+|# | Date         | City |  Race     | Type | Course |Time |
+|--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|1| 25.01.2026 | Istanbul | [15. Uğur Mumcu Anma Yol Koşusu](https://www.teamkronos.com/ugur-mumcu-yol-kosusu) | Road | 10k | [00:48:46](https://hurratiming.com/result/31)
 
 ### 2025
 
