@@ -2,13 +2,13 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2026 |  1 |   0| 0| 
+| 2026 |  2 |   0| 0| 
 | 2025 |  15|   1| 7| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **102**|  **7** | **31**| 
+| **Total** |  **103**|  **7** | **31**| 
 
 ## Details
 
@@ -16,6 +16,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|2 | 15.02.2025 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:48:17](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=124&EId=1&AId=110079) |
 |1| 25.01.2026 | Istanbul | [15. Uğur Mumcu Anma Yol Koşusu](https://www.teamkronos.com/ugur-mumcu-yol-kosusu) | Road | 10k | [00:48:46](https://hurratiming.com/result/31)
 
 ### 2025
