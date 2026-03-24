@@ -2,14 +2,14 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2026 |  4 |   0| 2| 
+| 2026 |  5 |   0| 3| 
 | 2026 |  2 |   0| 0| 
 | 2025 |  15|   1| 7| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **105**|  **7** | **33**| 
+| **Total** |  **106**|  **7** | **34**| 
 
 ## Details
 
@@ -17,6 +17,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|5 | 22.03.2025 | Madrid (ES) | [Movistar Madrid Medio Maratón](https://en.mediomaratonmadrid.es/) | Road | Half Marathon | [01:50:05](https://sportmaniacs.com/es/races/xxv-movistar-madrid-medio-maraton-2026/69bfdb9b-15dc-4df4-afd6-f41aac1f0a08/rankings?participant=7706) |
 |4 | 08.03.2025 | Paris (FR) | [Hoka Semi de Paris](https://www.hokasemideparis.fr/en/) | Road | Half Marathon | [01:53:35](https://results-sportinnovation.fr/detail/7892098) |
 |3 | 22.02.2025 | Napoli (IT) | [Napoli City Half Marathon](https://www.napolirunning.com/nchm/?lang=en) | Road | Half Marathon | [01:51:32](https://www.endu.net/en/events/coelmo-napoli-city-half-marathon/results/2026/99942/6334) |
 |2 | 15.02.2025 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:48:17](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=124&EId=1&AId=110079) |
