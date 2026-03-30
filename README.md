@@ -16,10 +16,12 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|5 | 22.03.2025 | Madrid (ES) | [Movistar Madrid Medio Maratón](https://en.mediomaratonmadrid.es/) | Road | Half Marathon | [01:50:05](https://sportmaniacs.com/es/races/xxv-movistar-madrid-medio-maraton-2026/69bfdb9b-15dc-4df4-afd6-f41aac1f0a08/rankings?participant=7706) |
-|4 | 08.03.2025 | Paris (FR) | [Hoka Semi de Paris](https://www.hokasemideparis.fr/en/) | Road | Half Marathon | [01:53:35](https://results-sportinnovation.fr/detail/7892098) |
-|3 | 22.02.2025 | Napoli (IT) | [Napoli City Half Marathon](https://www.napolirunning.com/nchm/?lang=en) | Road | Half Marathon | [01:51:32](https://www.endu.net/en/events/coelmo-napoli-city-half-marathon/results/2026/99942/6334) |
-|2 | 15.02.2025 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:48:17](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=124&EId=1&AId=110079) |
+|- | 29.03.2026 | Istanbul  | [Mor Koşu - Maltepe Belediyesi](https://www.maltepe.bel.tr/) | Fun Run | 6k | N/A |
+|- | 26.03.2026 | Istanbul  | [Mor Koşu - Beykoz Belediyesi](https://www.beykoz.bel.tr/) | Fun Run | 5.5k | N/A |
+|5 | 22.03.2026 | Madrid (ES) | [Movistar Madrid Medio Maratón](https://en.mediomaratonmadrid.es/) | Road | Half Marathon | [01:50:05](https://sportmaniacs.com/es/races/xxv-movistar-madrid-medio-maraton-2026/69bfdb9b-15dc-4df4-afd6-f41aac1f0a08/rankings?participant=7706) |
+|4 | 08.03.2026 | Paris (FR) | [Hoka Semi de Paris](https://www.hokasemideparis.fr/en/) | Road | Half Marathon | [01:53:35](https://results-sportinnovation.fr/detail/7892098) |
+|3 | 22.02.2026 | Napoli (IT) | [Napoli City Half Marathon](https://www.napolirunning.com/nchm/?lang=en) | Road | Half Marathon | [01:51:32](https://www.endu.net/en/events/coelmo-napoli-city-half-marathon/results/2026/99942/6334) |
+|2 | 15.02.2026 | Istanbul | [Winter Run İstanbul](https://winterrunistanbul.com/) | Road | 10K | [00:48:17](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=124&EId=1&AId=110079) |
 |1| 25.01.2026 | Istanbul | [15. Uğur Mumcu Anma Yol Koşusu](https://www.teamkronos.com/ugur-mumcu-yol-kosusu) | Road | 10k | [00:48:46](https://hurratiming.com/result/31)
 
 ### 2025
