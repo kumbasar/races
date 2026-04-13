@@ -2,13 +2,13 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2026 |  6 |   0| 3| 
+| 2026 |  7 |   0| 3| 
 | 2025 |  15|   1| 7| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **107**|  **7** | **34**| 
+| **Total** |  **108**|  **7** | **34**| 
 
 ## Details
 
@@ -16,6 +16,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|7 | 12.04.2026 | Istanbul | [Ata Koşusu](https://atakosusu.atasehir.bel.tr/) | Road | 10k | [00:50:09](https://my.raceresult.com/392625/) |
 |6 | 05.04.2026 | Istanbul | [Bosphorun Quarter Marathon - Caddebostan](https://bosphorun.istanbul/) | Road | Quarter Marathon | [00:50:37](https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=326&EId=3&AId=8002) |
 |- | 29.03.2026 | Istanbul  | [Mor Koşu - Maltepe Belediyesi](https://www.maltepe.bel.tr/) | Fun Run | 6k | N/A |
 |- | 26.03.2026 | Istanbul  | [Mor Koşu - Beykoz Belediyesi](https://www.beykoz.bel.tr/) | Fun Run | 5.5k | N/A |
