@@ -16,7 +16,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|9 | 19.04.2026 | Istanbul | [Troya Maratonu - 21k](https://troyamaratonu.com/) | Road | Half Marathon | [02:02:13](https://hurratiming.com/result/32) |
+|9 | 26.04.2026 | Istanbul | [Troya Maratonu - 21k](https://troyamaratonu.com/) | Road | Half Marathon | [02:02:13](https://hurratiming.com/result/32) |
 |8 | 19.04.2026 | Istanbul | [Istanbul Half Marathon](https://istanbulyarimaratonu.com/) | Road | Half Marathon | [01:55:33](https://results.splittime.nl/results/ShowEvent.aspx?EventID=8840) |
 |7 | 12.04.2026 | Istanbul | [Ata Koşusu](https://atakosusu.atasehir.bel.tr/) | Road | 10k | [00:50:09](https://my.raceresult.com/392625/) |
 |6 | 05.04.2026 | Istanbul | [Bosphorun Quarter Marathon - Caddebostan](https://bosphorun.istanbul/) | Road | Quarter Marathon | [00:50:37](https://sonuc.plustiming.com/myresults.aspx?CId=16389&RId=326&EId=3&AId=8002) |
@@ -53,8 +53,8 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
-|18| 01.12.2025 | Valencia :es: | [Valencia Marathon Trinidad Alfonso Zurich](https://www.valenciaciudaddelrunning.com/en/marathon/maraton/) | Road | Marathon | [04:06:28](https://www.valenciaciudaddelrunning.com/en/marathon/2024-marathon-ranking/)
-|17| 03.11.2025 | Istanbul | [46. Istanbul Maratonu](https://maraton.istanbul/) | Road | 15k | [01:12:39](https://results.splittime.nl/results/ShowEvent.aspx?EventID=807)
+|18| 01.12.2024 | Valencia :es: | [Valencia Marathon Trinidad Alfonso Zurich](https://www.valenciaciudaddelrunning.com/en/marathon/maraton/) | Road | Marathon | [04:06:28](https://www.valenciaciudaddelrunning.com/en/marathon/2024-marathon-ranking/)
+|17| 03.11.2024 | Istanbul | [46. Istanbul Maratonu](https://maraton.istanbul/) | Road | 15k | [01:12:39](https://results.splittime.nl/results/ShowEvent.aspx?EventID=807)
 |16| 13.10.2024 | Budapest 🇭🇺 | [SPAR Budapest Maraton - Regnum 30 km](https://marathon.runinbudapest.com/30-km/) | Road | 30k | [02:35:39](https://bsieredmenylista.hu/spar-budapest-maraton-2024/30km/) 
 |15| 29.09.2024 | Berlin :de: | [BMW BERLIN-MARATHON 2024](https://www.bmw-berlin-marathon.com) | Road | Marathon | [03:54:36](https://berlin.r.mikatiming.com/2024/?content=detail&fpid=search&pid=search&idp=HCH3C0OHA6B91&lang=EN_CAP&event=BML_HCH3C0OH266&event_main_group=BMW+BERLIN+MARATHON&search%5Bname%5D=kumbasar&search_event=BML_HCH3C0OH266) 
 |14| 21.09.2024 | Oslo 🇳🇴 | [Oslo Maraton](https://oslomaraton.no/en/) | Road | Half Marathon | [01:45:16](https://live.ultimate.dk/desktop/front/index.php?eventid=6200&ignoreuseragent=true)|
