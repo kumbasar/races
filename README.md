@@ -2,13 +2,13 @@
 
 | Year         |   Races     | Marathons | Half Marathons |
 |--------------|-----------| -----------| -----------| 
-| 2026 |  11 |   0| 5| 
+| 2026 |  12 |   0| 6| 
 | 2025 |  15|   1| 7| 
 | 2024 |  18|  3| 9| 
 | 2023 |  25|  1 | 6| 
 | 2022 |  27 |  2 | 8 |
 | 2021 |  16 |  0 | 1 |
-| **Total** |  **112**|  **7** | **36**| 
+| **Total** |  **113**|  **7** | **37**| 
 
 ## Details
 
@@ -16,6 +16,7 @@
 
 |# | Date         | City |  Race     | Type | Course |Time |
 |--|:------------:|----|-----------|:----------:|:-------:|:---------:
+|12 | 19.05.2026 | Ankara | [19 Mayıs Ankara Yarı Maratonu](https://kosu.taf.org.tr/) | Road | Half Marathon | [02:01:46](https://merbespor.com/wp-content/glive/g-live.html?f=/wp-content/glive-results/ankara-19-mayis-yari-maratonu-2026/ankara-19-mayis-yari-maratonu-2026.clax&t=0210013135&wp=1&B=2189) |
 |11 | 09.05.2026 | Istanbul | [Saucony Istanbul 10K](https://istanbul10k.com/) | Road | 10k | [00:48:32](https://www.racetecresults.com/myresults.aspx?CId=19782&RId=125&EId=2&AId=111228) |
 |10 | 03.05.2026 | Istanbul | [İstanbul’u Koşuyorum - Asya Etabi Üsküdar](https://istanbulukosuyorum.istanbul/istanbulu-kosuyorum-asya-etabi-2026/) | Road | 10k | [00:49:29](https://results.splittime.nl/results/ShowEvent.aspx?EventID=8847) |
 |9 | 26.04.2026 | Çanakkale | [Troya Maratonu - 21k](https://troyamaratonu.com/) | Road | Half Marathon | [02:02:13](https://hurratiming.com/result/32) |
